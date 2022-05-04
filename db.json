@@ -1,6 +1,6 @@
 {
   "post": [],
-  "products": {
+  "foundation": {
     "main-prod": [
       {
         "id": 1,
@@ -45,70 +45,9 @@
         "f4": "Improve skin-brightening",
         "f5": "Antioxidant vitamins,contains mineral pigments which provide a sheer.",
         "category": "foundation"
-      },
-      {
-        "id": 5,
-        "title": "Lip Gloss",
-        "img": "https://3.imimg.com/data3/DG/QO/MY-3792183/lipstick-500x500.jpg",
-        "f1": "Gives your lips a aqua shiny look.",
-        "f2": "Gives a plumping look of lips.",
-        "f3": "Protect your lips from cracking, cold bites",
-        "f4": "Stays for hours on lips.",
-        "f5": "Gives full coverage.",
-        "category": "lip-gloss"
-      },
-      {
-        "id": 6,
-        "title": "Lip Stick",
-        "img": "https://3.imimg.com/data3/DG/QO/MY-3792183/lipstick-500x500.jpg",
-        "f1": "Non bleeding, non feathering formula.",
-        "f2": "Gives rich n creamy feel.",
-        "f3": "Provides intense colour.",
-        "f4": "Smooth gliding technology",
-        "f5": "Increases elasticity and softness of lips.",
-        "category": "lip-gloss"
-      },
-      {
-        "id": 7,
-        "title": "Lip Liner",
-        "img": "https://3.imimg.com/data3/KE/XS/MY-3792183/lip-liner-500x500.jpg",
-        "f1": "Enriched with vitamins.",
-        "f2": "Colour dense formula.",
-        "f3": "Stays for hurs.",
-        "f4": "Aid precision lining at one writing.",
-        "f5": "Self sharpening and recractable",
-        "category": "lip-gloss"
       }
     ],
     "side-prod": [
-      {
-        "id": 1,
-        "title": "TNW-The Natural Wash Lip",
-        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSt-JIHmlg4LzgemXxFfanAw-ug7hwcwlkIJ_B7RF3PGjSxd5P1siBBzPuNtocF2VDvA4iiIhbuG3pdliflg7fogq7lASZCEjQb4C0vV5AlN0rmTdwFPRrKdQ&usqp=CAs",
-        "price": 322,
-        "category": "lip-gloss"
-      },
-      {
-        "id": 2,
-        "title": "Choco Lip Kit for Chapped",
-        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwUtDRpZtXzZ1CtgGbIlniNSe-CXFZR7YizMohOxy-OCrOUVZNDehBbBiywXXBc6SR_MX7rk3a1NdbWsU-9MLsyD4jx9QDqUKTgkGFjnQ2qPn5AcOSZggg9A&usqp=CAs",
-        "price": 798,
-        "category": "lip-gloss"
-      },
-      {
-        "id": 3,
-        "title": "Nivea Lip Balm - Fruity Watermelon",
-        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKFUgODyrRHUSRCT8P8YpB7lkRLjmMZs_f_7Ns06SzLbTLWSD52oY0LiQtvy-XAGQs8OUMlHgSnKtPAbeJklJPTVl_stJGn0k6sFZU45A&usqp=CAs",
-        "price": 138,
-        "category": "lip-gloss"
-      },
-      {
-        "id": 4,
-        "title": "Coffee Lip Kit For Chapped",
-        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR27wKRB3bT8_3F7zpTjUnHdxT7KNpoKxPkqqPKhkBchwGO1jl898sTWOVUut59E9VK9yOeuuxvsIEmIqWrz5pqPHVXzC7p-xusUfJ41ceL5pP9fpuRxPcS7uI&usqp=CAs",
-        "price": 758,
-        "category": "lip-gloss"
-      },
       {
         "id": 5,
         "title": "The Diva Kit",
@@ -187,41 +126,6 @@
         "img": "https://3.imimg.com/data3/ML/RO/MY-3792183/mascara-250x250.jpg",
         "quantity": 4,
         "category": "foundation"
-      },
-      {
-        "id": 6,
-        "title": "Makeup",
-        "img": "https://3.imimg.com/data3/BX/CS/MY-3792183/foundation-250x250.jpg",
-        "quantity": 4,
-        "category": "lip-gloss"
-      },
-      {
-        "id": 7,
-        "title": "Lipstick",
-        "img": "https://4.imimg.com/data4/QY/OX/GLADMIN-3792183/1-250x250.jpg",
-        "quantity": 10,
-        "category": "lip-gloss"
-      },
-      {
-        "id": 8,
-        "title": "Bleach Cream",
-        "img": "https://3.imimg.com/data3/NL/QG/MY-3792183/fruit-bleach-250x250.jpg",
-        "quantity": 4,
-        "category": "lip-gloss"
-      },
-      {
-        "id": 9,
-        "title": "Scrubs",
-        "img": "https://3.imimg.com/data3/QC/FL/MY-3792183/fairness-scrub-250x250.jpg",
-        "quantity": 6,
-        "category": "lip-gloss"
-      },
-      {
-        "id": 10,
-        "title": "Eyes Products",
-        "img": "https://3.imimg.com/data3/ML/RO/MY-3792183/mascara-250x250.jpg",
-        "quantity": 4,
-        "category": "lip-gloss"
       }
     ],
     "suppliers": [
@@ -264,7 +168,113 @@
         "addr": "Civil Lines, New Delhi, Delhi, India",
         "mob": "08048609843",
         "category": "foundation"
+      }
+    ]
+  },
+  "lip-gloss": {
+    "main-prod": [
+      {
+        "id": 5,
+        "title": "Lip Gloss",
+        "img": "https://3.imimg.com/data3/DG/QO/MY-3792183/lipstick-500x500.jpg",
+        "f1": "Gives your lips a aqua shiny look.",
+        "f2": "Gives a plumping look of lips.",
+        "f3": "Protect your lips from cracking, cold bites",
+        "f4": "Stays for hours on lips.",
+        "f5": "Gives full coverage.",
+        "category": "lip-gloss"
       },
+      {
+        "id": 6,
+        "title": "Lip Stick",
+        "img": "https://3.imimg.com/data3/DG/QO/MY-3792183/lipstick-500x500.jpg",
+        "f1": "Non bleeding, non feathering formula.",
+        "f2": "Gives rich n creamy feel.",
+        "f3": "Provides intense colour.",
+        "f4": "Smooth gliding technology",
+        "f5": "Increases elasticity and softness of lips.",
+        "category": "lip-gloss"
+      },
+      {
+        "id": 7,
+        "title": "Lip Liner",
+        "img": "https://3.imimg.com/data3/KE/XS/MY-3792183/lip-liner-500x500.jpg",
+        "f1": "Enriched with vitamins.",
+        "f2": "Colour dense formula.",
+        "f3": "Stays for hurs.",
+        "f4": "Aid precision lining at one writing.",
+        "f5": "Self sharpening and recractable",
+        "category": "lip-gloss"
+      }
+    ],
+    "side-prod": [
+      {
+        "id": 1,
+        "title": "TNW-The Natural Wash Lip",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSt-JIHmlg4LzgemXxFfanAw-ug7hwcwlkIJ_B7RF3PGjSxd5P1siBBzPuNtocF2VDvA4iiIhbuG3pdliflg7fogq7lASZCEjQb4C0vV5AlN0rmTdwFPRrKdQ&usqp=CAs",
+        "price": 322,
+        "category": "lip-gloss"
+      },
+      {
+        "id": 2,
+        "title": "Choco Lip Kit for Chapped",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwUtDRpZtXzZ1CtgGbIlniNSe-CXFZR7YizMohOxy-OCrOUVZNDehBbBiywXXBc6SR_MX7rk3a1NdbWsU-9MLsyD4jx9QDqUKTgkGFjnQ2qPn5AcOSZggg9A&usqp=CAs",
+        "price": 798,
+        "category": "lip-gloss"
+      },
+      {
+        "id": 3,
+        "title": "Nivea Lip Balm - Fruity Watermelon",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKFUgODyrRHUSRCT8P8YpB7lkRLjmMZs_f_7Ns06SzLbTLWSD52oY0LiQtvy-XAGQs8OUMlHgSnKtPAbeJklJPTVl_stJGn0k6sFZU45A&usqp=CAs",
+        "price": 138,
+        "category": "lip-gloss"
+      },
+      {
+        "id": 4,
+        "title": "Coffee Lip Kit For Chapped",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR27wKRB3bT8_3F7zpTjUnHdxT7KNpoKxPkqqPKhkBchwGO1jl898sTWOVUut59E9VK9yOeuuxvsIEmIqWrz5pqPHVXzC7p-xusUfJ41ceL5pP9fpuRxPcS7uI&usqp=CAs",
+        "price": 758,
+        "category": "lip-gloss"
+      }
+    ],
+    "explore": [
+      {
+        "id": 6,
+        "title": "Makeup",
+        "img": "https://3.imimg.com/data3/BX/CS/MY-3792183/foundation-250x250.jpg",
+        "quantity": 4,
+        "category": "lip-gloss"
+      },
+      {
+        "id": 7,
+        "title": "Lipstick",
+        "img": "https://4.imimg.com/data4/QY/OX/GLADMIN-3792183/1-250x250.jpg",
+        "quantity": 10,
+        "category": "lip-gloss"
+      },
+      {
+        "id": 8,
+        "title": "Bleach Cream",
+        "img": "https://3.imimg.com/data3/NL/QG/MY-3792183/fruit-bleach-250x250.jpg",
+        "quantity": 4,
+        "category": "lip-gloss"
+      },
+      {
+        "id": 9,
+        "title": "Scrubs",
+        "img": "https://3.imimg.com/data3/QC/FL/MY-3792183/fairness-scrub-250x250.jpg",
+        "quantity": 6,
+        "category": "lip-gloss"
+      },
+      {
+        "id": 10,
+        "title": "Eyes Products",
+        "img": "https://3.imimg.com/data3/ML/RO/MY-3792183/mascara-250x250.jpg",
+        "quantity": 4,
+        "category": "lip-gloss"
+      }
+    ],
+    "suppliers": [
       {
         "id": 5,
         "title": "Empty Lip Gloss Tubes",
