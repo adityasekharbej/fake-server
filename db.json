@@ -1,1 +1,82 @@
-{"post":[]}
+{
+  "post": [],
+  "products": [
+    {
+      "id": 1,
+      "title": "Foundation",
+      "img": "https://3.imimg.com/data3/YL/EJ/MY-3792183/01-500x500.jpg",
+      "f1": "Easy spreading, water proof, Non oily formula.",
+      "f2": "Enriched with Vitamin-E and Aloe vera.",
+      "f3": "Improves natural skin texure.",
+      "f4": "Used as a base to adhere other make up products.",
+      "f5": "Controls Sebum to give your facial skin a flawless matt finish all day long.",
+      "category": "makeup"
+    },
+    {
+      "id": 2,
+      "title": "Compact",
+      "img": "https://3.imimg.com/data3/YL/EJ/MY-3792183/01-500x500.jpg",
+      "f1": "Oil control, water proof formula.",
+      "f2": "Matte velvet finish all day long.",
+      "f3": "Applies and blends easily on skin.",
+      "f4": "A fine powder enriched with oil absorbers.",
+      "f5": "UV-filters and moisturizer.",
+      "category": "makeup"
+    },
+    {
+      "id": 3,
+      "title": "Pan Cake Foundation",
+      "img": "https://3.imimg.com/data3/VL/AM/MY-3792183/pan-cake-500x500.jpg",
+      "f1": "A light scattering cake make up specialy made for face and body.",
+      "f2": "Proffesional make up foundation in stick form.",
+      "f3": "Used as a base to adhere other make up products.",
+      "f4": "With UV-absorbers.",
+      "f5": "Easily blended, seamless, mattifing-pros.",
+      "category": "makeup"
+    },
+    {
+      "id": 4,
+      "title": "Pan Stick Foundation",
+      "img": "https://3.imimg.com/data3/LX/OI/MY-3792183/pan-stick-500x500.jpg",
+      "f1": "Proffesional make up foundation in stick form.",
+      "f2": "Used as a base to adhere other make up products.",
+      "f3": "With UV-absorbers.",
+      "f4": "Improve skin-brightening",
+      "f5": "Antioxidant vitamins,contains mineral pigments which provide a sheer.",
+      "category": "makeup"
+    },
+    {
+      "id": 5,
+      "title": "Lip Gloss",
+      "img": "https://3.imimg.com/data3/DG/QO/MY-3792183/lipstick-500x500.jpg",
+      "f1": "Gives your lips a aqua shiny look.",
+      "f2": "Gives a plumping look of lips.",
+      "f3": "Protect your lips from cracking, cold bites",
+      "f4": "Stays for hours on lips.",
+      "f5": "Gives full coverage.",
+      "category": "lip-products"
+    },
+    {
+      "id": 6,
+      "title": "Lip Stick",
+      "img": "https://3.imimg.com/data3/DG/QO/MY-3792183/lipstick-500x500.jpg",
+      "f1": "Non bleeding, non feathering formula.",
+      "f2": "Gives rich n creamy feel.",
+      "f3": "Provides intense colour.",
+      "f4": "Smooth gliding technology",
+      "f5": "Increases elasticity and softness of lips.",
+      "category": "lip-products"
+    },
+    {
+      "id": 7,
+      "title": "Lip Liner",
+      "img": "https://3.imimg.com/data3/KE/XS/MY-3792183/lip-liner-500x500.jpg",
+      "f1": "Enriched with vitamins.",
+      "f2": "Colour dense formula.",
+      "f3": "Stays for hurs.",
+      "f4": "Aid precision lining at one writing.",
+      "f5": "Self sharpening and recractable",
+      "category": "lip-products"
+    }
+  ]
+}
