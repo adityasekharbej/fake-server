@@ -5,6 +5,7 @@
   "laptop": [
     {
       "id": 1,
+      "category": "Laptop",
       "type": "Dell",
       "count": 35,
       "ram": "8gb",
@@ -12,6 +13,7 @@
     },
     {
       "id": 2,
+      "category": "Laptop",
       "type": "Hp",
       "count": 25,
       "ram": "8gb",
@@ -21,6 +23,7 @@
   "camera": [
     {
       "id": 3,
+      "category": "Camera",
       "type": "Nikon",
       "count": 20,
       "ram": "8gb",
@@ -28,6 +31,7 @@
     },
     {
       "id": 4,
+      "category": "Camera",
       "type": "Canon",
       "count": 52,
       "ram": "8gb",
@@ -38,6 +42,7 @@
   "mobile": [
     {
       "id": 7,
+      "category": "Mobile",
       "type": "Apple",
       "count": 68,
       "ram": "8gb",
@@ -45,6 +50,7 @@
     },
     {
       "id": 8,
+      "category": "Mobile",
       "type": "Oppo",
       "count": 17,
       "ram": "8gb",
