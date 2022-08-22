@@ -2,6 +2,56 @@
   "post": [],
   "user": [],
   "addresses": [],
+  "laptop": [
+    {
+      "id": 1,
+      "type": "Dell",
+      "count": 35,
+      "ram": "8gb",
+      "cpu": "intel i5"
+    },
+    {
+      "id": 2,
+      "type": "Hp",
+      "count": 25,
+      "ram": "8gb",
+      "cpu": "intel i5"
+    }
+  ],
+  "camera": [
+    {
+      "id": 3,
+      "type": "Nikon",
+      "count": 20,
+      "ram": "8gb",
+      "cpu": "intel i5"
+    },
+    {
+      "id": 4,
+      "type": "Canon",
+      "count": 52,
+      "ram": "8gb",
+      "cpu": "intel i5"
+    }
+  ],
+
+  "mobile": [
+    {
+      "id": 7,
+      "type": "Apple",
+      "count": 68,
+      "ram": "8gb",
+      "cpu": "intel i5"
+    },
+    {
+      "id": 8,
+      "type": "Oppo",
+      "count": 17,
+      "ram": "8gb",
+      "cpu": "intel i5"
+    }
+  ],
+
   "foundation": {
     "main-prod": [
       {
